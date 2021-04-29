@@ -1,0 +1,2 @@
+# Impact-of-Recession-on-retail-sector
+To predict who is likely to shop next month also highlight factors that impact likelihood  of customer shopping next month for each customer shopped during 12/1/2009 till 11/9/2011, we  must predict the likelihood of customer's shopping next month. Used feature engineering techniques  for EDA visualizations using matplotlib, seaborn, used Recency-Frequency-Monetary(RFM) model to  predict customers who will shop in next month.
